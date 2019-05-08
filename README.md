@@ -4,3 +4,5 @@
  - Processing notebook with principle component analysis is included in "KBSProject_zhou.ipynb"
  - Citations with the abstract are contained in "Citations.pdf" 
  - Screenshots of dashboard is contained in "Dashboard.pdf"
+ - Data is uploaded to BigQuery
+ 
