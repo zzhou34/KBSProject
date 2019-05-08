@@ -16,5 +16,5 @@
 
    I am sorry I am being stuck with the step of extracting dominant variables from PCA. I have finished the other parts expect this step. I probably need a little more time to complete this step. I believe I can finish it before weekend.
    
-   Sincerely,
+   Sincerely,  
    Zhou Zhou )  
